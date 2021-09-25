@@ -11,7 +11,7 @@ Habilidades: PHP  / JS / HTML / CSS / JAVA / REACT / CODEIGNITER / LARAVEL / BOO
 - 👯 Quiero colaborar con Proyectos Sociales 
 - 📫 Cómo contactarme: prez.gumiel@gmail.com 
 - ⚡ Dato curioso: Me gustan los Gatos y Perro 
-
+![Profile views](https://gpvc.arturio.dev/gumiel) 
 
 
 
