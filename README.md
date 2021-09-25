@@ -1,5 +1,24 @@
 ### Hola 👋, Mi nombre es Henry Perez Gumiel
 #### Soy un desarrollador de software apasionado
+![Soy un desarrollador de software apasionado](https://buy.ham-let.com/pub/static/frontend/Codazon/fastest_food_drink/en_US/css/source/layout/webkul/images/page-banner.jpg)
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Habilidades: PHP  / JS / HTML / CSS / JAVA / REACT / CODEIGNITER / LARAVEL / BOOTSTRAP / BULMA IO / FOUNDATION ZURB / UBUNTU / CENTOS
+
+- 🔭 Estoy trabajando en ENDE TECNOLOGIAS 
+- 🌱 Estoy aprendiendo Integración Continua 
+- 👯 Quiero colaborar con Proyectos Sociales 
+- 📫 Cómo contactarme: prez.gumiel@gmail.com 
+- ⚡ Dato curioso: Me gustan los Gatos y Perro 
+
+
+
+
+
+
+<-- ### Hola 👋, Mi nombre es Henry Perez Gumiel
+#### Soy un desarrollador de software apasionado
 ![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
@@ -13,8 +32,8 @@ Habilidades: VUE JS / REACT / JS / HTML / CSS
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=gumiel)  
 
-![Profile views](https://gpvc.arturio.dev/gumiel)  
-<-
+![Profile views](https://gpvc.arturio.dev/gumiel)  -->
+<--
 
 **gumiel/gumiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,4 +47,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-->
+-->
