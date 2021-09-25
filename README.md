@@ -17,7 +17,7 @@ Habilidades: PHP  / JS / HTML / CSS / JAVA / REACT / CODEIGNITER / LARAVEL / BOO
 
 
 
-<-- ### Hola 👋, Mi nombre es Henry Perez Gumiel
+<!-- ### Hola 👋, Mi nombre es Henry Perez Gumiel
 #### Soy un desarrollador de software apasionado
 ![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
@@ -33,7 +33,7 @@ Habilidades: VUE JS / REACT / JS / HTML / CSS
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=gumiel)  
 
 ![Profile views](https://gpvc.arturio.dev/gumiel)  -->
-<--
+<!--
 
 **gumiel/gumiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
