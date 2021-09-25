@@ -1,6 +1,6 @@
 ### Hola 👋, Mi nombre es Henry Perez Gumiel
 #### Soy un desarrollador de software apasionado
-![Soy un desarrollador de software apasionado](https://buy.ham-let.com/pub/static/frontend/Codazon/fastest_food_drink/en_US/css/source/layout/webkul/images/page-banner.jpg)
+<!--![Soy un desarrollador de software apasionado](https://buy.ham-let.com/pub/static/frontend/Codazon/fastest_food_drink/en_US/css/source/layout/webkul/images/page-banner.jpg)-->
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
