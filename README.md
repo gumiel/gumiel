@@ -47,4 +47,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
+
+
+
+https://arturssmirnovs.github.io/github-profile-readme-generator/
 -->
